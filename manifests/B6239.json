@@ -2,14 +2,14 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://ValentinDeCraene.github.io/B6239/manifests/B6239.json",
   "@type" : "sc:Manifest",
-  "label" : "[Click to edit label]",
+  "label" : "[Registers of Hubert Ghommer, baillif of Lille (B6239)]",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "[Click to edit description]",
+    "@value" : "[Registers of Hubert Ghommer, baillif of Lille, from the period between the 24 of September 1432 to the 21 of September 1433. This folio provides an example of the reuse of parchment]",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "[Archives Départementales du Nord]",
   "sequences" : [ {
     "@id" : "http://9826ea8f-af81-4487-abc2-e334d01386a2",
     "@type" : "sc:Sequence",
