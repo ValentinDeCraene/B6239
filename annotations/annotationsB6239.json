@@ -1,0 +1,248 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Last item in the spending section that reveals the military role of the baillif. Indeed, we learn that the baillif paid himself 22 crossbowmen that then joined the count's army.\nMoreover, we can trace back the journey of this small troup because they left Lille to go to Saint-Omer.\nSaint Omer nowadays : <a href=\"https://www.google.fr/maps/place/Saint-Omer/@50.6668149,2.5255709,9.17z/data=!4m5!3m4!1s0x47dcf893912760af:0x40af13e8163d5e0!8m2!3d50.7501421!4d2.2521973\" target=\"_blank\" rel=\"noopener\">https://www.google.fr/maps/place/Saint-Omer/@50.6668149,2.5255709,9.17z/data=!4m5!3m4!1s0x47dcf893912760af:0x40af13e8163d5e0!8m2!3d50.7501421!4d2.2521973",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Last item in the spending section that reveals the military role of the baillif. Indeed, we learn that the baillif paid himself 22 crossbowmen that then joined the count's army.</p>\n<p>Moreover, we can trace back the journey of this small troup because they left Lille to go to Saint-Omer.</p>\n<p>Saint Omer nowadays : <a href=\"https://www.google.fr/maps/place/Saint-Omer/@50.6668149,2.5255709,9.17z/data=!4m5!3m4!1s0x47dcf893912760af:0x40af13e8163d5e0!8m2!3d50.7501421!4d2.2521973\" target=\"_blank\" rel=\"noopener\">https://www.google.fr/maps/place/Saint-Omer/@50.6668149,2.5255709,9.17z/data=!4m5!3m4!1s0x47dcf893912760af:0x40af13e8163d5e0!8m2!3d50.7501421!4d2.2521973</a></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Spending",
+      "@type" : "oa:Tag",
+      "chars" : "Spending"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Army",
+      "@type" : "oa:Tag",
+      "chars" : "Army"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92516776",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-10T09:32:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644485550789",
+    "dcterms:modified" : "2022-02-10T10:08:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ValentinDeCraene.github.io/B6239/manifests/B6239.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=91,246,650,203"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M90.863,246.25061h325.08582v0h325.08582v101.45455v101.45455h-325.08582h-325.08582v-101.45455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_b95c112b-08d6-4335-9677-b9a3337e3ff9\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fff2ba0b-2eb7-4048-8b70-898fb6a64adc"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Conclusion of the account listing the wages that are owed to the baillif not only for his standard work, but also for some extraordinary spendings listed above.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Conclusion of the account listing the wages that are owed to the baillif not only for his standard work, but also for some extraordinary spendings listed above.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Conclusion",
+      "@type" : "oa:Tag",
+      "chars" : "Conclusion"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92516776",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-10T09:34:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644485642991",
+    "dcterms:modified" : "2022-02-10T10:05:22",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ValentinDeCraene.github.io/B6239/manifests/B6239.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=87,591,656,308"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M87.22727,591h327.81818v0h327.81818v154.18182v154.18182h-327.81818h-327.81818v-154.18182z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_645d0822-ab92-4ee3-bfe7-8ecd822947b6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fff2ba0b-2eb7-4048-8b70-898fb6a64adc"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A final marginal note indicating that this register is collection and copy of the baillif's registers",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A final marginal note indicating that this register is collection and copy of the baillif's registers</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "marginalia",
+      "@type" : "oa:Tag",
+      "chars" : "marginalia"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92516776",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-10T09:34:27",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644485667589",
+    "dcterms:modified" : "2022-02-10T10:09:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ValentinDeCraene.github.io/B6239/manifests/B6239.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3,442,89,141"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2.68182,441.90909h44.63636v0h44.63636v70.54545v70.54545h-44.63636h-44.63636v-70.54545z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true}\" id=\"rectangle_e3d466d6-5e93-442c-ba85-684a2cdda57e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fff2ba0b-2eb7-4048-8b70-898fb6a64adc"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "This sheet of parchment is most interesting becasue we can note what could be describe as a scar. Indeed, the parchment has been sewed up in order to preserve the integrity of the register. It is a proof that this register was considered by the Chambre des Comptes not only like a working tools, but also has an evidence of the baillif work in case of judiciary need.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>This sheet of parchment is most interesting becasue we can note what could be describe as a scar. Indeed, the parchment has been sewed up in order to preserve the integrity of the register. It is a proof that this register was considered by the Chambre des Comptes not only like a working tools, but also has an evidence of the baillif work in case of judiciary need.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Codicology",
+      "@type" : "oa:Tag",
+      "chars" : "Codicology"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Scar",
+      "@type" : "oa:Tag",
+      "chars" : "Scar"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Reuse",
+      "@type" : "oa:Tag",
+      "chars" : "Reuse"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92516776",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-10T09:30:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644485436364",
+    "dcterms:modified" : "2022-02-10T09:49:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ValentinDeCraene.github.io/B6239/manifests/B6239.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=218,7,120,826"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M222.44507,7.29375l2.72664,76.3458l1.36332,62.71262l21.81309,79.07244l10.90654,70.89253l24.53972,61.34931l9.54323,54.53272l10.90654,55.89603l9.54323,73.61917l5.45327,68.1659l-1.36332,55.89603l-6.81659,62.71262l-8.17991,66.80258l17.72313,38.1729l8.17991,-14.9965l-4.08995,-35.44627l4.08995,-40.89954l6.81659,-46.35281v-40.89954l2.72664,-32.71963l-4.08995,-35.44627l-1.36332,-43.62617l-5.45327,-40.89954l-1.36332,-42.26286l-10.90654,-42.26286l-5.45327,-39.53622l-10.90654,-46.35281l-10.90654,-43.62617l-16.35982,-55.89603l-20.44977,-44.98949l-4.08995,-43.62617l-4.08995,-61.34931l-2.72664,-53.1694l4.08995,-21.81309l-25.90304,1.36332h4.08995z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_2f1b4b58-371b-468b-88ad-f88abb950616\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1.35523\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fff2ba0b-2eb7-4048-8b70-898fb6a64adc"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Note added by the officers of the Chambre des Comptes concerning the wages of the Receveur G&eacute;n&eacute;ral de Flandres given by the baillif.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Note added by the officers of the Chambre des Comptes concerning the wages of the Receveur G&eacute;n&eacute;ral de Flandres given by the baillif.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Spending",
+      "@type" : "oa:Tag",
+      "chars" : "Spending"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Note",
+      "@type" : "oa:Tag",
+      "chars" : "Note"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92516776",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-10T09:32:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644485570596",
+    "dcterms:modified" : "2022-02-10T10:01:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ValentinDeCraene.github.io/B6239/manifests/B6239.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=90,457,646,127"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M736.31818,583.97756h-323.09091v0h-323.09091v-63.54545v-63.54545h323.09091h323.09091v63.54545z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_0deafd7a-4fd3-41f0-aa5d-d127d4cda268\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1.36332\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fff2ba0b-2eb7-4048-8b70-898fb6a64adc"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Distinctive sign that points to a marginal note on the left side of the page. It indicates the different ways for the scribes to annotate their word.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Distinctive sign that points to a marginal note on the left side of the page. It indicates the different ways for the scribes to annotate their word.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "note",
+      "@type" : "oa:Tag",
+      "chars" : "note"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "marginalia",
+      "@type" : "oa:Tag",
+      "chars" : "marginalia"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92516776",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-10T10:08:07",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644487687883",
+    "dcterms:modified" : "2022-02-10T10:08:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ValentinDeCraene.github.io/B6239/manifests/B6239.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=244,750,53,85"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M243.59091,750.18207h26.45455v0h26.45455v42.36364v42.36364h-26.45455h-26.45455v-42.36364z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true}\" id=\"rectangle_3233b7cf-b23e-44b2-a071-8b6a4c28b38e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fff2ba0b-2eb7-4048-8b70-898fb6a64adc"
+    } ]
+  } ],
+  "@id" : "https://ValentinDeCraene.github.io/B6239/annotations/annotationsB6239.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
