@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://ValentinDeCraene.github.io/B6239/annotations/annotationsB6239.json" ],
+  "@id" : "https://ValentinDeCraene.github.io/B6239/annotations/collection.json",
+  "label" : "All annotations loaded in ValentinDeCraene/B6239 project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
